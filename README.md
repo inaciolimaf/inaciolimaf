@@ -22,7 +22,13 @@ Me encontre por aqui! 👇🏽
   <a href = https://github.com/inaciolimaf>
   <img height = 180px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height = 180px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciolimaf&layout=default&langs_count=7&theme=dracula"/>
-  <img height = 160px href="https://github.com/inaciolimaf/Tecnicas-prog-JAVA" src="https://github-readme-stats.vercel.app/api/pin/?username=inaciolimaf&repo=Microdados-Enem&theme=dracula"/>
+</div>
+  
+  ##
+  
+### ✔️Meus principais projetos
+<div>
+  <img height = 160px href="https://github.com/inaciolimaf/Tecnicas-prog-JAVA" src="https://github-readme-stats.vercel.app/api/pin/?username=inaciolimaf&repo=Microdados-Enem&theme=dracula"/>  
 </div>
   
   ##
