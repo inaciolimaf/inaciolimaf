@@ -20,9 +20,9 @@ Me encontre por aqui! 👇🏽
 ### 📈Github stats:
 <div>
   <a href = https://github.com/inaciolimaf>
-  <img height = "180em" href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = "110em" href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciolimaf&layout=compact&langs_count=7&theme=dracula"/>
-  <img height = "150em" href="https://github.com/inaciolimaf/Tecnicas-prog-JAVA" src="https://github-readme-stats.vercel.app/api/pin/?username=inaciolimaf&repo=Microdados-Enem&theme=dracula"/>
+  <img height = 210px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height = 210px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciolimaf&layout=default&langs_count=7&theme=dracula"/>
+  <img height = 160px href="https://github.com/inaciolimaf/Tecnicas-prog-JAVA" src="https://github-readme-stats.vercel.app/api/pin/?username=inaciolimaf&repo=Microdados-Enem&theme=dracula"/>
 </div>
   
   ##
@@ -34,7 +34,8 @@ Me encontre por aqui! 👇🏽
 </div>
 <!--
 **inaciolimaf/inaciolimaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+height = "180em
+height = "110em"
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
