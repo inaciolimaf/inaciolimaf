@@ -20,8 +20,8 @@ Me encontre por aqui! 👇🏽
 ### 📈Github stats:
 <div>
   <a href = https://github.com/inaciolimaf>
-  <img height = 210px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = 210px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciolimaf&layout=default&langs_count=7&theme=dracula"/>
+  <img height = 200px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height = 200px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciolimaf&layout=default&langs_count=7&theme=dracula"/>
   <img height = 160px href="https://github.com/inaciolimaf/Tecnicas-prog-JAVA" src="https://github-readme-stats.vercel.app/api/pin/?username=inaciolimaf&repo=Microdados-Enem&theme=dracula"/>
 </div>
   
