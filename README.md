@@ -20,8 +20,8 @@ Me encontre por aqui! 👇🏽
 ### 📈Github stats:
 <div>
   <a href = https://github.com/inaciolimaf>
-  <img height = 180px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = 180px href="https://github.com/inaciolimaf/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciolimaf&layout=default&langs_count=7&theme=dracula"/>
+  <img height = 160px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img height = 160px href="https://github.com/inaciolimaf/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciolimaf&langs_count=7&theme=dracula&layout=compact"/>
 </div>
   
   ##
@@ -33,6 +33,8 @@ Me encontre por aqui! 👇🏽
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <a href = "https://github.com/inaciolimaf/Tecnicas-prog-JAVA" >
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <a href = "">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 <!--
 ### ✔️Meus principais projetos
