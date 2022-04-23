@@ -33,7 +33,7 @@ Me encontre por aqui! 👇🏽
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <a href = "https://github.com/inaciolimaf/Tecnicas-prog-JAVA" >
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <a href = "">
+  <a href = "https://github.com/inaciolimaf/Exercicios-C">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 <!--
