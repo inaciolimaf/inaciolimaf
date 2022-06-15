@@ -1,4 +1,4 @@
-## Oi <img src="https://raw.githubusercontent.com/inaciolimaf/inaciolimaf/main/hi.gif"  width="30px">, eu sou Inácio Filho 🧑‍💻
+## Oi <img src="https://raw.githubusercontent.com/inaciolimaf/inaciolimaf/main/hi.gif"  height="30px">, eu sou Inácio Filho 🧑‍💻
 Sou um progamador🧑‍💻 graduando em Engenharia da Computação 💻
 
 🔭 Uso um pouco de <b>Pandas</b> em Python para análise de dados
