@@ -1,11 +1,11 @@
 ## Oi <img src="https://raw.githubusercontent.com/inaciolimaf/inaciolimaf/main/hi.gif"  height="30px">, eu sou Inácio Filho 🧑‍💻
 Sou um progamador🧑‍💻 graduando em Engenharia da Computação 💻
 
-🔭 Uso um pouco de <b>Pandas</b> em Python para análise de dados
+🔭 Tenho conhecimento em Python, Pandas, Selenium e Django
 
-🌱 Atualmente estou estudando desenvolvimento Web
+🌱 Atualmente estou estudando desenvolvimento Web com Djando e React
 
-🎇Por aqui você encontra alguns dos meus projetos envolvendo programação
+🎇 Por aqui você encontra alguns dos meus projetos envolvendo programação!
 
 Me encontre por aqui! 👇🏽
 <div>
@@ -13,6 +13,7 @@ Me encontre por aqui! 👇🏽
   <a href = "https://github.com/inaciolimaf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href = "https://www.youtube.com/channel/UC7U9IzmONeXBgjt9TcZCN-A/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href = "mailto:inaciofilho.lima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://www.linkedin.com/in/in%C3%A1cio-filho-20ba27285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
@@ -20,10 +21,14 @@ Me encontre por aqui! 👇🏽
 ### 📈Github stats:
 <div>
   <a href = https://github.com/inaciolimaf>
-  <img height = 140px href="https://github.com/inaciolimaf/Microdados-Enem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img height = 140px href="https://github.com/inaciolimaf" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inaciolimaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,prs"/>
   <img height = 140px href="https://github.com/inaciolimaf/" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inaciolimaf&langs_count=7&theme=dracula&layout=compact"/>
 </div>
-  
+
+##
+    
+<img href="https://github.com/inaciolimaf/" height=220px src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inaciolimaf&theme=dracula" />
+    
   ##
 
 <div style="display: inline_block"><br>
@@ -35,6 +40,12 @@ Me encontre por aqui! 👇🏽
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <a href = "https://github.com/inaciolimaf/Exercicios-C">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <a href = "https://github.com/TopikerGrupo/Topiker">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <a href = "https://github.com/inaciolimaf/VisaoSISU">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <a href = "https://github.com/inaciolimaf/VisaoSISU">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 </div>
 <!--
 ### ✔️Meus principais projetos
