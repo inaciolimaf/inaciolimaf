@@ -1,9 +1,9 @@
 ## Oi <img src="https://raw.githubusercontent.com/inaciolimaf/inaciolimaf/main/hi.gif"  height="30px">, eu sou Inácio Filho 🧑‍💻
 Sou um progamador🧑‍💻 graduando em Engenharia da Computação 💻
 
-🔭 Tenho conhecimento em Python, Pandas, Selenium e Django
+🔭 Meu foco principal é em React, Next e Node
 
-🌱 Atualmente estou estudando desenvolvimento Web com Djando e React
+🌱 Atualmente estou estudando aprofundando meus conhecimentos em desenvolvimento Web
 
 🎇 Por aqui você encontra alguns dos meus projetos envolvendo programação!
 
