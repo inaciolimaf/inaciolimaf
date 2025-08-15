@@ -1,22 +1,24 @@
 ## Oi <img src="https://raw.githubusercontent.com/inaciolimaf/inaciolimaf/main/hi.gif"  height="30px">, eu sou Inácio Filho 🧑‍💻
-Sou um progamador🧑‍💻 graduando em Engenharia da Computação 💻
 
-🔭 Meu foco principal é em React, Next e Node
+Desenvolvedor Full Stack apaixonado por tecnologia e inovação 🚀, graduando em Engenharia da Computação pela UFC 💻
 
-🌱 Atualmente estou estudando aprofundando meus conhecimentos em desenvolvimento Web
+🔭 Especializado em React.js, Next.js, Node.js, Python e Django REST Framework
 
-🎇 Por aqui você encontra alguns dos meus projetos envolvendo programação!
+🌱 Atualmente aprofundando conhecimentos em desenvolvimento web moderno e escalável
+
+🎯 Experiência em APIs REST, PostgreSQL, testes automatizados e metodologias ágeis
+
+🎇 Por aqui você encontra projetos envolvendo desenvolvimento web, automação e inovação!
 
 Me encontre por aqui! 👇🏽
 <div>
-  <a href = "https://www.instagram.com/inaciosl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "https://github.com/inaciolimaf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href = "https://www.youtube.com/channel/UC7U9IzmONeXBgjt9TcZCN-A/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href = "mailto:inaciofilho.lima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/in%C3%A1cio-filho-20ba27285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-##
+  ##
 
 ### 📈Github stats:
 <div>
@@ -32,37 +34,16 @@ Me encontre por aqui! 👇🏽
   ##
 
 <div style="display: inline_block"><br>
-  <a href = "https://github.com/inaciolimaf/Microdados-Enem" >
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href = "https://github.com/inaciolimaf/Microdados-Enem" >
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <a href = "https://github.com/inaciolimaf/Tecnicas-prog-JAVA" >
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <a href = "https://github.com/inaciolimaf/Exercicios-C">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <a href = "https://github.com/TopikerGrupo/Topiker">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <a href = "https://github.com/inaciolimaf/VisaoSISU">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <a href = "https://github.com/inaciolimaf/VisaoSISU">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 </div>
-<!--
-### ✔️Meus principais projetos
-<div>
-  <img height = 160px href="https://github.com/inaciolimaf/" src="https://github-readme-stats.vercel.app/api/pin/?username=inaciolimaf&repo=Microdados-Enem&theme=dracula"/>  
-</div>
-**inaciolimaf/inaciolimaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-height = "180em
-height = "110em"
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
